@@ -358,4 +358,4 @@ a=model_rfc.predict(arr_res)
 a
 
 
-# #this result shows that the customer will exit
+
